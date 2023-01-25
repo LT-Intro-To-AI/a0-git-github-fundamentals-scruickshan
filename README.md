@@ -1,5 +1,20 @@
 # :wave: The Basics of Git and GitHub 
 
+_Bernardo_: Who's there?
+
+_Francisco_: 'Nay, answer me; stand, and unfold yourself.
+
+_Bernardo_: Long live the king!
+
+_Francisco_: Bernardo?
+
+_Bernardo_: He.
+
+_Francisco_: You come most carefully upon your hour.
+
+_Bernardo_: 'Tis now struck twelve; get thee to bed, Francisco.
+
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform.
